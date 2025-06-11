@@ -1,0 +1,5 @@
+{
+  "name": "Product Admin Dashboard with AI Tags",
+  "description": "An admin dashboard to manage products (CRUD operations) and leverage AI to suggest product tags based on name and description using the Gemini API.",
+  "requestFramePermissions": []
+}
